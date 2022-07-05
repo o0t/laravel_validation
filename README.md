@@ -45,6 +45,9 @@
 - Unique (Database)
 - URL
 
+and More in laravel 9 
+
+
 ## Documentation validation in Laravel 🔗
 
 [ Documentation laravel 5.0 ](https://laravel.com/docs/5.0/validation)
